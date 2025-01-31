@@ -1,0 +1,8 @@
+- **Design** identifies all modules of the software product, details out the internals 0f each module, the implementation details and a skeleton of the testing details.
+- **Architecture** defines the modules, their connections and other dependencies, the hardware, database and its access etc.
+- Design and Architecture are hand in glove with each other.
+- Usually, validation of the design and architecture is done.
+-
+- **Validation**: The process of evaluating software at the end of software development to ensure compliance with intended usage. i.e., checking of the software meets it requirments
+- **Verification**: the process of determining whether the products of a given phase of the software development process fulfill the requirments established at the start of the phase.
+- Testing , deals mainly with verification.
